@@ -1,4 +1,4 @@
-// QUICK SORT
+//  QUICK SORT
 
 let values = [50, 34, 21, 2, 3, 5, 7, 9];
 
